@@ -1,0 +1,4 @@
+com\greenlabs\crudsample\dao\impl\JurusanDaoImplTest.class
+com\greenlabs\crudsample\dao\impl\MahasiswaDaoImplTest.class
+com\greenlabs\crudsample\dao\impl\TransaksiKrsDaoImplTest.class
+com\greenlabs\crudsample\DbConnectionTest.class

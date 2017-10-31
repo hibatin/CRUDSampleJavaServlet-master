@@ -1,0 +1,3 @@
+# CRUDSampleJavaServlet
+
+mvn jetty:run
